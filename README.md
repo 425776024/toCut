@@ -1,6 +1,6 @@
 [中文](README-zh.md) · [Website](https://ffclip.com) · [Usage guide](docs/usage-en.md) · [WeChat article (中文)](https://mp.weixin.qq.com/s/MKfMipfXc2xv_B3-mVYq6w)
 
-## Quick Start
+## Quick Start 🫱 [ffclip.com/webcut](ffclip.com/webcut)
 
 <sub>Copy this into your AI assistant</sub>
 
